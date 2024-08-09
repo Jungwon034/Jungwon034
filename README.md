@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Jungwon034
-- 👀 I’m interested in CFD and CG
-- 🌱 I’m currently learning in DGIST
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me winny1999@digst.ac.kr
+- 👀 I’m interested in CFD and AI
+- 🌱 I’m intergarated M.S-Ph.D student in Yonsei University 
+- 📫 Contact me jungwonheo@yonsei.ac.kr
 
 <!---
 Jungwon034/Jungwon034 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
