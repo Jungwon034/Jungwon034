@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jungwon034
+- 👋 Hi, I’m Jungwon Heo
 - 👀 I’m interested in CFD and AI
-- 🌱 I’m intergarated M.S-Ph.D student in Yonsei University 
+- 🌱 I’m intergarated M.S student in Yonsei University 
 - 📫 Contact me jungwonheo@yonsei.ac.kr
 
 <!---
